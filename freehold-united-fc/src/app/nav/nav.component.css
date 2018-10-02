@@ -1,0 +1,11 @@
+ul {
+  margin: 0 auto;
+}
+
+li {
+  width: 25%;
+  border-color: black;
+  border-style: solid;
+  border-width: thin;
+  border-radius: 5px;
+}
